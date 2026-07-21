@@ -10,6 +10,7 @@ Comprehensive, zero-budget, job-ready roadmaps for the fastest-growing roles in 
 | [AI Governance Specialist](AI-Governance-Specialist-Roadmap.md) | Design and implement AI risk frameworks, compliance controls, and oversight mechanisms for regulated AI systems. |
 | [GTM Engineer](GTM-Engineer-Roadmap.md) | Automate revenue operations — build enrichment pipelines, AI SDR agents, CRM integrations, and lead scoring systems. |
 | [Product Engineer](ProductEngineer.md) | Own the full product loop — build full-stack TypeScript/Next.js apps with AI features, analytics, and real users. |
+| [Forward Deployed Engineer](FDEEngineer.md) | Deploy AI solutions inside enterprise environments — integrate LLMs, build RAG pipelines, manage customer deployments from discovery to production. |
 
 ## What's Inside
 
