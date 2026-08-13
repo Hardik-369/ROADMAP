@@ -1,6 +1,6 @@
 # Career Roadmaps 2026
 
-Comprehensive, zero-budget, job-ready roadmaps for the fastest-growing roles in AI and revenue operations. Each roadmap is a self-contained guide covering the full journey from fundamentals to job search — built for a 5-6 month sprint with 4-6 hours of daily commitment.
+Comprehensive, zero-budget, job-ready roadmaps for the fastest-growing roles in AI, engineering, and revenue operations. Each roadmap is a self-contained guide covering the full journey from fundamentals to job search — built for a 5-6 month sprint with 4-6 hours of daily commitment.
 
 ## Included Roadmaps
 
@@ -11,16 +11,21 @@ Comprehensive, zero-budget, job-ready roadmaps for the fastest-growing roles in 
 | [GTM Engineer](GTM-Engineer-Roadmap.md) | Automate revenue operations — build enrichment pipelines, AI SDR agents, CRM integrations, and lead scoring systems. |
 | [Product Engineer](ProductEngineer.md) | Own the full product loop — build full-stack TypeScript/Next.js apps with AI features, analytics, and real users. |
 | [Forward Deployed Engineer](FDEEngineer.md) | Deploy AI solutions inside enterprise environments — integrate LLMs, build RAG pipelines, manage customer deployments from discovery to production. |
+| [DevOps Engineer](DevOps-Engineer-Roadmap.md) | Build the delivery factory — CI/CD pipelines, Docker/Kubernetes, Terraform, AWS, and observability — from zero to job-ready in 6 months. |
 
 ## What's Inside
 
-Each roadmap follows a consistent structure:
+Each roadmap is a 20-part, fully standalone guide:
 
-- **Career Overview** — Role definition, daily responsibilities, market context, salary benchmarks
-- **Learning Path** — 3-part technical curriculum with daily/weekly study plans and hands-on projects
-- **Portfolio Projects** — Real-world projects designed to demonstrate job-ready skills
-- **Job Search Toolkit** — Resume templates, portfolio guides, interview prep, and application strategy
-- **Living Resources** — Curated links to free courses, tools, communities, and reference materials
+- **Career Overview** — Role definition, daily responsibilities, hiring market, salary benchmarks, AI impact, 5-year outlook
+- **Skills Breakdown** — Must-know vs good-to-know vs optional vs future skills, with time estimates and prerequisites
+- **24-Week Roadmap** — Week-by-week objectives, topics, mini-projects, assignments, and daily study suggestions
+- **Free Resources** — Curated links to official docs, YouTube courses, GitHub repos, books, and communities
+- **Certifications & Tool Stack** — Free certificates (and honest notes on paid ones) plus a full per-tool guide
+- **Project Roadmap** — 9 levels of projects from beginner to open-source, each with resume value and interview talking points
+- **Job Search Toolkit** — GitHub portfolio, ATS-safe resume, LinkedIn optimization, interview prep, freelancing, and application strategy
+- **180-Day Action Plan** — Day-by-day schedule with deliverables and milestones
+- **Success Checklist & Scorecard** — Readiness scoring by month and exactly when to start applying
 
 ## Usage
 
