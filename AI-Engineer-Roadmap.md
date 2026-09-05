@@ -808,6 +808,7 @@ Source: Levels.fyi, KORE1, Acceler8 Talent, Hakia (2026 data)
 
 | Newsletter | Link |
 |---|---|
+| AI Weekly | https://aiweekly.co/ |
 | The Batch (DeepLearning.AI) | https://www.deeplearning.ai/the-batch/ |
 | Import AI | https://jack-clark.net/ |
 | The Gradient | https://thegradientpub.substack.com/ |
